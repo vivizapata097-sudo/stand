@@ -1,6 +1,6 @@
 // Botón principal
 document.getElementById('visitarBtn').addEventListener('click', function() {
-  alert('¡Te esperamos en el stand el 27 de octubre en el Colegio Monseñor Ramon A.! No te pierdas la ruleta con preguntas y premios 🎉');
+  alert('¡Te esperamos en el stand el 28 de octubre en el Colegio Monseñor Ramon A.! No te pierdas la ruleta con preguntas y premios 🎉');
 });
 
 // Botón para descargar folleto
