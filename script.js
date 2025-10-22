@@ -16,7 +16,7 @@ document.getElementById('folletoBtn').addEventListener('click', function() {
           <li>DIU: larga duración.</li>
           <li>Implante: subdérmico y seguro.</li>
         </ul>
-        <p>Ven y participa en nuestra <strong>ruleta educativa</strong> el 27 de octubre en el Colegio Monseñor Ramon A., de 10:00 am a 4:00 p.m.</p>
+        <p>Ven y participa en nuestra <strong>ruleta educativa</strong> el 28 de octubre en el Colegio Monseñor Ramon A., de 10:00 am a 4:00 p.m.</p>
       </body>
     </html>
   `;
